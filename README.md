@@ -93,8 +93,8 @@ These insights indicate that pipeline efficiency improvements may drive more imp
 
 # ⚙️ How to Run the Project
 
-1. Clone repository: git clone <repo_link>
-2. Install dependencies: pip install python pandas numpy matplotlib
+1. Clone repository: `gh repo clone suryamr2002/SkyGeni-Sales-Intelligence-Challenge`
+2. Install dependencies: `pip install python pandas numpy matplotlib`
 3. Run notebook
 
 
